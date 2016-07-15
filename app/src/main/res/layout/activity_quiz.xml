@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:padding="24dp"
         android:id="@+id/text_question"
-
+        tools:text = "Question will show up here"
         />
 
     <LinearLayout
