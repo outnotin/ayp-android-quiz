@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Noppharat\Desktop\Android\AYPQuiz\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Noppharat\Desktop\Android\AYPQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_e4e8754cf36e74716dfb434225b5a29c96df95dd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Noppharat\Desktop\Android\AYPQuiz\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Noppharat\Desktop\Android\AYPQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_c491be35eb72fd49b12beb3a5244797980a649b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Noppharat\Desktop\Android\AYPQuiz\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Noppharat\Desktop\Android\AYPQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_79d141c3d5dfc1f900f1ad28df58830f2f9a64d3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Noppharat\Desktop\Android\AYPQuiz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Noppharat\Desktop\Android\AYPQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_3388363fcf6770f3f147cb1ba46ae1a74ed16503\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Noppharat\Desktop\Android\AYPQuiz\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7c465048d1729dcb31444ead7c66c223075aec1f">
+        <dex dex="C:\Users\Noppharat\Desktop\Android\AYPQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_014993bcc82a82686c5b009daab29ea273275b85\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Noppharat\Desktop\Android\AYPQuiz\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Noppharat\Desktop\Android\AYPQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_1fa439adf8b7227da6e7bc034df77fa0e567f415\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Noppharat\Desktop\Android\AYPQuiz\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8d6d56c3049efb1397ca93c68f3fc283eefa0c74">
+        <dex dex="C:\Users\Noppharat\Desktop\Android\AYPQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_36c326c6cc5760c6b17cd4debf2eda5de2b1ebcb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Noppharat\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Noppharat\Desktop\Android\AYPQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_4d80602dd55955db65e20655b73acc7a8b69db25\classes.dex" />
+    </item>
+
+</items>
