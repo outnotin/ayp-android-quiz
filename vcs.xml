@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/outnotin/KeepWalking.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gftherds/ContactPP.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Noppharat\Desktop\Android\NewKeepWalking" />
+    <option name="cloneParentDir" value="C:\Users\Noppharat\Desktop\Android\ContactPP" />
   </component>
 </application>
