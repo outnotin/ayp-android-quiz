@@ -1,0 +1,9 @@
+<templateSet group="AndroidXML">
+  <template name="fmsingle" value="&lt;FrameLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:orientation=&quot;vertical&quot;&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:layout_height=&quot;match_parent&quot;&#10;    android:id=&quot;@+id/fragment_container&quot;&gt;&#10;&#10;&lt;/FrameLayout&gt;" description="add single fragment xml" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,13 @@
+<templateSet group="Android">
+  <template name="createsingle" value="@LayoutRes&#10;protected int getLayoutResId(){&#10;    return&#10;            R.layout.fragment_single;&#10;}&#10;&#10;@Override&#10;protected void onCreate(Bundle savedInstanceState) {&#10;    super.onCreate(savedInstanceState);&#10;    //create container and put fragment&#10;    //CrimeListActivity is responsed in create fragment&#10;    setContentView(getLayoutResId());&#10;&#10;&#10;    FragmentManager fm = getSupportFragmentManager();&#10;    Fragment f = fm.findFragmentById(R.id.fragment_container);&#10;&#10;    if(f == null){&#10;        f = onCreateFragment();&#10;        fm.beginTransaction()&#10;                .add(R.id.fragment_container,f)&#10;                .commit();&#10;&#10;    }else{&#10;&#10;    }&#10;}&#10;&#10;protected abstract Fragment onCreateFragment();" description="create single fragment class" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+</templateSet>
