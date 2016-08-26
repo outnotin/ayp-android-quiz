@@ -10,7 +10,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="tag" value="private static final String TAG = &quot;$TAGNAME$&quot;" toReformat="false" toShortenFQNames="true">
+  <template name="tag" value="private static final String TAG = &quot;$TAGNAME$&quot;;" toReformat="false" toShortenFQNames="true">
     <variable name="TAGNAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
